@@ -1,0 +1,11 @@
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\bin\Debug\ATM-GUI.exe.config
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\bin\Debug\ATM-GUI.exe
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\bin\Debug\ATM-GUI.pdb
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM-GUI.csproj.AssemblyReference.cache
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM-GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM_GUI.ATM.resources
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM_GUI.Properties.Resources.resources
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM-GUI.csproj.GenerateResource.cache
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM-GUI.csproj.CoreCompileInputs.cache
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM-GUI.exe
+C:\Users\ememendozar\source\repos\ATM-GUI\ATM-GUI\obj\Debug\ATM-GUI.pdb
